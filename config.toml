@@ -1,5 +1,5 @@
 baseurl = "https://mrnp95.github.io/"
-title = "Reza"
+title = "home"
 
 theme = "hugo-coder"
 
@@ -19,17 +19,17 @@ disqusShortname = "yourdiscussshortname"
     author = "Reza"
     description = "Mohammadreza Noormandipour's personal website"
     keywords = "blog,developer,personal"
-    info = "PhD student at ... University"
-    avatarurl = "images/avatar.jpg"
-    #gravatar = "john.doe@example.com"
+    info = "B.Sc. in Physics, M.Sc. in Applied Math, and now Electrical Engineering Ph.D. student at UCLA!"
+    avatarurl = "images/photo.jpeg"
+    #gravatar = "reza8@ucla.edu"
     footercontent = "Thanks for visiting my page!"
 
     dateformat = "January 2, 2006"
 
     hideFooter = false
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
-    since = 2019
+    since = 2020
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -80,24 +80,12 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://twitter.com/MrNoormandipour/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.linkedin.com/in/mohammad-reza-noormandipour-274095b5/"
 
 [languages]
     [languages.en]

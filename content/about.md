@@ -1,29 +1,15 @@
 +++
-title = "About Hugo"
+title = "About Reza"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Reza received his B.Sc. degree in Solid-State Physics from SBU in 2018 and a Master of Advanced Studies in Applied Mathematics from the University of Cambridge in 2020. At Cambridge, he has been professionally taught in Quantum Computing by leaders of the field. Moreover, he has experience doing research in various areas in Physics and Mathematics and has co-authored papers in High Energy Particle Physics, Solid-State Physics, Topological Quantum Computing, and Quantum Machine Learning. Beyond this, his long-standing interests lie at the crossroads of Quantum Finance, Hybrid Quantum-Classical optimization hardware/software, and Quantum Chemistry.
+Fun Fact: Out of the workplace, Reza is fond of sports and astronomical photography and usually runs fundraisers for health and science purposes. 
 
+[LinkedIn Page](https://www.linkedin.com/in/mohammad-reza-noormandipour-274095b5/)
 
-It makes use of a variety of open source projects including:
+Learn more about my work and contribute on [GitHub](https://github.com/mrnp95).
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Have questions or suggestions? Feel free to [email me](mailto:reza8@ucla.edu) or [ask me on Twitter](https://twitter.com/MrNoormandipour/)".
 
 Thanks for reading!
