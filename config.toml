@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Reza"
+    author = "Mohammadreza Noormandipour"
     description = "Mohammadreza Noormandipour's personal website"
     keywords = "blog,developer,personal"
     info = "B.Sc. in Physics, M.Sc. in Applied Math, and now Electrical Engineering Ph.D. student at UCLA!"
@@ -54,7 +54,7 @@ disqusShortname = "yourdiscussshortname"
 
     # Custom JS
     custom_js = []
-
+math = true
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 [params.fathomAnalytics]
     siteID = "ABCDE"
@@ -91,12 +91,22 @@ disqusShortname = "yourdiscussshortname"
     [languages.en]
         languagename = "English"
 
-        [languages.en.menu]
+            [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "Courses"
+            weight = -2
+            url = "courses/"
+
+            [[languages.en.menu.main]]
+            name = "Teaching"
+            weight = -1
+            url = "ta/"
 
             [[languages.en.menu.main]]
             name = "About"
-            weight = 1
-            url = "about/"
+            weight = 3
+            url = "about/" 
 
             [[languages.en.menu.main]]
             name = "Blog"
@@ -105,10 +115,5 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Projects"
-            weight = 3
+            weight = 1
             url = "projects/"
-
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
