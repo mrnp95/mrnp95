@@ -5,6 +5,14 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+cd ./public
+
+git pull 
+
+rm -rf ./*
+
+cd ../
+
 # Build the project.
 hugo -D -d ./public  # if using a theme, replace with `hugo -t <YOURTHEME>`
 

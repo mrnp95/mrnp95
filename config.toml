@@ -16,10 +16,10 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Mohammadreza Noormandipour"
-    description = "Mohammadreza Noormandipour's personal website"
+    author = "Reza Noormandipour"
+    description = "Reza Noormandipour's personal website"
     keywords = "blog,developer,personal"
-    info = "B.Sc. in Physics, M.Sc. in Applied Math, and now Electrical Engineering Ph.D. student at UCLA!"
+    info = "PhD in TCM group, University of Cambridge!"
     avatarurl = "images/photo.jpeg"
     #gravatar = "reza8@ucla.edu"
     footercontent = "Thanks for visiting my page!"
